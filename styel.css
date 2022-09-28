@@ -53,6 +53,7 @@ h1 {
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 20px;
+
 }
 
 .experience-area {
@@ -60,4 +61,16 @@ h1 {
     background-repeat: no-repeat;
     background-position: left;
 
+}
+
+#Full-stack-Developer {
+    border-left: 7px solid tomato;
+}
+
+#Baby-web-Developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
